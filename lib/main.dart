@@ -64,11 +64,11 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int seciliSayfa = 0;
-  void initState(){
+  void initState(){/*
     super.initState();
     Future.delayed(Duration(seconds: 3),(){
       Navigator.push(context, MaterialPageRoute(builder: (context) => MyApp()));
-    });
+    });*/
   }
   void sayfaDegistir(int index) {
     setState(() {
