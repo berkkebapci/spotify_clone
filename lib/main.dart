@@ -115,7 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       Text(
                         "Tünaydın",
                         style: TextStyle(
-                            fontSize: 31,
+                            fontSize: 32,
                             color: Colors.white,
                             fontWeight: FontWeight.bold),
                       ),

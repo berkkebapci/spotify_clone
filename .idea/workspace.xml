@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,22 +69,22 @@
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
     <state x="2500" y="185" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1616883883222" />
-    <state width="1557" height="219" key="GridCell.Tab.0.bottom" timestamp="1617025233374">
+    <state width="1557" height="219" key="GridCell.Tab.0.bottom" timestamp="1617025712717">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025233374" />
-    <state width="1557" height="219" key="GridCell.Tab.0.center" timestamp="1617025233373">
+    <state width="1557" height="219" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025712717" />
+    <state width="1557" height="219" key="GridCell.Tab.0.center" timestamp="1617025712716">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="219" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025233373" />
-    <state width="1557" height="219" key="GridCell.Tab.0.left" timestamp="1617025233373">
+    <state width="1557" height="219" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025712716" />
+    <state width="1557" height="219" key="GridCell.Tab.0.left" timestamp="1617025712716">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="219" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025233373" />
-    <state width="1557" height="219" key="GridCell.Tab.0.right" timestamp="1617025233373">
+    <state width="1557" height="219" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025712716" />
+    <state width="1557" height="219" key="GridCell.Tab.0.right" timestamp="1617025712717">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="219" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025233373" />
+    <state width="1557" height="219" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1600.860@1920.0.1600.860" timestamp="1617025712717" />
     <state x="2012" y="92" width="1416" height="676" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1617024994537">
       <screen x="1920" y="0" width="1600" height="860" />
     </state>
