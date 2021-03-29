@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:spotify_clone/begenilenSarkilar.dart';
@@ -12,12 +14,31 @@ import 'package:spotify_clone/top50.dart';
 import 'package:spotify_clone/turkceSarkilar.dart';
 import 'package:spotify_clone/yabanciPop.dart';
 import 'package:spotify_clone/yeniMuzikRadari.dart';
-
 import 'billieEilish.dart';
 import 'dailyMix5.dart';
 
 void main() {
   runApp(MyApp());
+}
+
+class SplashScreen extends StatefulWidget {
+  @override
+  _SplashScreenState createState() => _SplashScreenState();
+}
+
+class _SplashScreenState extends State<SplashScreen> {
+  void initState(){
+    super.initState();
+    Future.delayed(Duration(seconds: 3),(){
+      Navigator.push(context, MaterialPageRoute(builder: (context) => MyApp()));
+    });
+  }
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: Image.asset('assets/spotify.jpg', width: 40, height: 40,),
+    );
+  }
 }
 
 class MyApp extends StatelessWidget {
@@ -43,6 +64,12 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int seciliSayfa = 0;
+  void initState(){
+    super.initState();
+    Future.delayed(Duration(seconds: 3),(){
+      Navigator.push(context, MaterialPageRoute(builder: (context) => MyApp()));
+    });
+  }
   void sayfaDegistir(int index) {
     setState(() {
       seciliSayfa = index;
